@@ -23,7 +23,6 @@ fun determineGrade2(marks:Int): String{
 
 //when with no parameters and as a replacement to if and else
 
-
 fun main(args: Array<String>) {
     var num = 8
     when{
